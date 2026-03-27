@@ -1,4 +1,4 @@
-# password-security-tool
+# Password-security-tool
 A simple Java CLI application that evaluates password strength and generates secure SHA-256 hashes.
 
 ---
